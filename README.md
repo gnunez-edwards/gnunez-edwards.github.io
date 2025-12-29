@@ -14,7 +14,7 @@ text data. Compared baseline models, augmented data, and ensemble approaches.
 
 → View Project: [GitHub Repo Link]
 
-### 🩺 Diabetes Prediction (Machine Learning)
+### Diabetes Prediction (Machine Learning)
 Built and evaluated classification models to predict diabetes outcomes using
 clinical features, focusing on performance metrics and model comparison.
 
@@ -25,8 +25,8 @@ Designed KPIs and dashboards to analyze order processing time and delivery rates
 
 → View Project: [GitHub Repo Link]
 
-## 🛠 Tools
+## Tools
 Python, Pandas, scikit-learn, NLP, SQL, Tableau, Power BI
 
-## 📫 Contact
+## Contact
 LinkedIn: linkedin.com/in/gabriela-nuñez-a8853711b
