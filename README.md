@@ -8,19 +8,19 @@ visualization to real-world problems.
 
 ## 🔍 Projects
 
-### 🧠 Fake vs Real Job Postings (NLP)
+### Fake vs Real Job Postings (NLP)
 Built multiple machine learning models to classify fraudulent job postings using
 text data. Compared baseline models, augmented data, and ensemble approaches.
 
 → View Project: [GitHub Repo Link]
 
-### 📊 Health Data Analysis (NHANES)
+### Health Data Analysis (NHANES)
 Applied regression and ensemble models to predict age using health indicators.
 Focused on feature selection and model evaluation.
 
 → View Project: [GitHub Repo Link]
 
-### 📦 E-Commerce BI Dashboard
+### E-Commerce BI Dashboard
 Designed KPIs and dashboards to analyze order processing time and delivery rates.
 
 → View Project: [GitHub Repo Link]
