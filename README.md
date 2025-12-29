@@ -12,7 +12,7 @@ visualization to real-world problems.
 Built multiple machine learning models to classify fraudulent job postings using
 text data. Compared baseline models, augmented data, and ensemble approaches.
 
-→ View Project: [GitHub Repo Link]
+→ View Project: https://github.com/gnunez-edwards/fake-job-postings-nlp.git
 
 ### Diabetes Prediction (Machine Learning)
 Built and evaluated classification models to predict diabetes outcomes using
