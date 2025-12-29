@@ -18,7 +18,7 @@ text data. Compared baseline models, augmented data, and ensemble approaches.
 Built and evaluated classification models to predict diabetes outcomes using
 clinical features, focusing on performance metrics and model comparison.
 
-→ View Project: [GitHub Repo Link]
+→ View Project: https://github.com/gnunez-edwards/diabetes-prediction.git
 
 ### E-Commerce BI Dashboard
 Designed KPIs and dashboards to analyze order processing time and delivery rates.
