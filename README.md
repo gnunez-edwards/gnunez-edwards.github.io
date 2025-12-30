@@ -20,11 +20,6 @@ clinical features, focusing on performance metrics and model comparison.
 
 → View Project: https://github.com/gnunez-edwards/diabetes-prediction.git
 
-### E-Commerce BI Dashboard
-Designed KPIs and dashboards to analyze order processing time and delivery rates.
-
-→ View Project: [GitHub Repo Link]
-
 ## Tools
 Python, Pandas, scikit-learn, NLP, SQL, Tableau, Power BI
 
