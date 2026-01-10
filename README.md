@@ -25,7 +25,7 @@ The final models were evaluated on both Kaggle data and an external USAJOBS data
 #### Key skills demonstrated:
 NLP preprocessing, class imbalance mitigation, transformer modeling, ensemble learning, error analysis, external validation
 
-→ View Project: [https://github.com/gnunez-edwards/fake-job-postings-nlp]
+→ View Project: [(https://github.com/gnunez-edwards/fake-job-postings-nlp)]
 
 
 ### Diabetes Prediction (Machine Learning)
@@ -37,7 +37,7 @@ Built and evaluated multiple classification models to predict diabetes outcomes 
 #### Key skills demonstrated:
 Supervised learning, feature engineering, model evaluation, healthcare data analysis
 
-→ View Project: [https://github.com/gnunez-edwards/diabetes-prediction.git]
+→ View Project: [(https://github.com/gnunez-edwards/diabetes-prediction.git(]
 
 ## Tools & Technologies
 
