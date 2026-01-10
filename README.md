@@ -37,7 +37,7 @@ Built and evaluated multiple classification models to predict diabetes outcomes 
 #### Key skills demonstrated:
 Supervised learning, feature engineering, model evaluation, healthcare data analysis
 
-→ View Project: [(https://github.com/gnunez-edwards/diabetes-prediction.git(]
+→ View Project: [(https://github.com/gnunez-edwards/diabetes-prediction.git)]
 
 ## Tools & Technologies
 
