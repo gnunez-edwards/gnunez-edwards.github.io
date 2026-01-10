@@ -42,8 +42,11 @@ Supervised learning, feature engineering, model evaluation, healthcare data anal
 ## Tools & Technologies
 
 **Languages & Libraries:** Python, pandas, NumPy, scikit-learn, NLP (NLTK, Hugging Face)
+
 **Visualization:** Matplotlib, Tableau, Power BI
+
 **Data:** SQL, APIs, data cleaning & preprocessing
+
 **Techniques:** Classification, NLP, ensemble methods, model evaluation
 
 ## Contact
