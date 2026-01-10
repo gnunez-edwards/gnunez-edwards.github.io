@@ -9,8 +9,7 @@ visualization to real-world problems.
 ## Projects
 
 ### Fake vs Real Job Postings (NLP)
-Built multiple machine learning models to classify fraudulent job postings using
-text data. Compared baseline models, augmented data, and ensemble approaches.
+This project addresses the growing problem of fraudulent job postings by building machine learning models capable of distinguishing real vs scam listings using textual and behavioral patterns. I developed an end-to-end NLP pipeline combining TF-IDF + linear models, BERT, GPT-2 synthetic data augmentation, and a stacking ensemble. The dataset contained extreme class imbalance (~5% fraud), requiring careful mitigation strategies. The final model was evaluated on both Kaggle data and an external USAJOBS dataset to assess real-world generalization.
 
 → View Project: https://github.com/gnunez-edwards/fake-job-postings-nlp.git
 
